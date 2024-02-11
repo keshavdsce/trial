@@ -1,1 +1,4 @@
+merge conflicts
+Committing in branch
 Committing in master branch
+
